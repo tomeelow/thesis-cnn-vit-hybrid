@@ -1,0 +1,8 @@
+# Checkpoints are too large for GitHub (43–83 MB each).
+# They are stored on Google Drive at thesis/phase3/.
+artefacts/*.pt
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
